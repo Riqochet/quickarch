@@ -4,7 +4,7 @@ package ejbrsn.quickstartarch;
  * Hello world!
  *
  */
-public class App 
+public class AppEdited 
 {
     public static void main( String[] args )
     {
